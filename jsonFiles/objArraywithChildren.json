@@ -1,0 +1,26 @@
+{
+	"ename":"Abhi",
+	"empId":"bca",
+	"email":[
+				"a.a@gmail.com",
+				"a.a@yahoo.com"
+			],
+	"address":"banglore",
+	"spouse":{
+				"sname":"Wife",
+				"semail":"@wife",
+				"saddress":"gadag"
+			},
+	"children":[
+					{
+						"semail":"a",
+						"sname":"A",
+						"saddress":"gdg"
+					},
+					{
+						"semail":"b",
+						"sname":"b",
+						"saddress":"bjp"
+					}
+				]
+}
